@@ -6,3 +6,6 @@ build/
 
 *.log
 *.tmp
+
+*.bc
+demo_app
